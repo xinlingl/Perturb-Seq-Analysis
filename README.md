@@ -9,6 +9,6 @@ Please read project report.pdf for more information about our pipeline.
 
 This project contains two parts: 
 
-Part 1: Imputation by MAGIC followed by consensus clustering of single-cell RNA-seq data by SC3
+Part 1: Imputation by MAGIC followed by consensus clustering of scRNA-seq data by SC3
 
-Part 2: Perturbation analysis using linear regression model
+Part 2: Joint analysis of scRNA-seq and CRISPR perturbation data using linear regression model
