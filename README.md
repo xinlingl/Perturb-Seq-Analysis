@@ -9,6 +9,12 @@ Please read project report.pdf for more information about our pipeline.
 
 This project contains two parts: 
 
-Part 1: Imputation by MAGIC followed by consensus clustering of scRNA-seq data by SC3
+**Part 1: Analysis of scRNA-seq data using MAGIC and SC3**
+<br />
+Goal：Preprocess the scRNA-seq data and find cells with similar gene expression patterns
 
-Part 2: Joint analysis of scRNA-seq and CRISPR perturbation data using linear regression model
+<br />
+
+**Part 2: Joint analysis of scRNA-seq and CRISPR perturbation data using linear regression model**
+<br />
+Goal: Use cell clustering from Part 1 together with perturbation information to find genes whose expression is affected by each perturbation, the perturbation that result               in similar effects on gene expression levels
