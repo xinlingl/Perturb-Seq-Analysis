@@ -17,4 +17,4 @@ Goal：Preprocess the scRNA-seq data and find cells with similar gene expression
 
 **Part 2: Joint analysis of scRNA-seq and CRISPR perturbation data using linear regression model**
 <br />
-Goal: Use cell cluster labels from Part 1 together with perturbation information to find genes whose expression is affected by each perturbation, the perturbation that result               in similar effects on gene expression levels.
+Goal: Use cell cluster labels from Part 1 together with perturbation information to find genes whose expression are affected by each perturbation and the perturbation that result               in similar effects on gene expression levels.
