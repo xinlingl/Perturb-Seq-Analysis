@@ -1,6 +1,6 @@
 # Perturb-Seq-Analysis
 
-Goal: Develop a pipeline to analyze perturb-seq data and identify the effect of perturbation on gene expression using linear regression model. The pipeline was then used to study genes that function in cell cycle regulation of human leukemia cell lines. 
+Goal: Develop a pipeline to analyze Perturb-Seq data. The pipeline was then used to test genes that function in cell cycle regulation of human leukemia cell lines. 
 <br />
 
 Please read project report.pdf for more information about our pipeline. 
